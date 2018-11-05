@@ -1,0 +1,16 @@
+PODS:
+  - CDB (0.1.0)
+
+DEPENDENCIES:
+  - CDB (from `../`)
+
+EXTERNAL SOURCES:
+  CDB:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CDB: c9ea137e547947948ac9f88fe83f0dd0a9bee0ee
+
+PODFILE CHECKSUM: a850f500998665a78341af1bde242acf6bcee03c
+
+COCOAPODS: 1.5.3

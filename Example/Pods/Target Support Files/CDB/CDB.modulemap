@@ -1,0 +1,6 @@
+framework module CDB {
+  umbrella header "CDB-umbrella.h"
+
+  export *
+  module * { export * }
+}
