@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/CDB/CDB'
+  s.homepage         = 'https://github.com/jimmy-hung/CDB'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'CDB' => 'p5p50p5p@gmail.com' }
-  s.source           = { :git => 'https://github.com/CDB/CDB.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/jimmy-hung/CDB.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
